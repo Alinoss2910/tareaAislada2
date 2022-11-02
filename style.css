@@ -1,0 +1,39 @@
+body {
+    background-image: url(img/descarga.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+h1 {
+    color: darkred;
+    background-color: lightcoral;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 8px green;
+}
+
+p {
+    color: rgb(0, 255, 0);
+    text-align: justify;
+    opacity: 80%;
+}
+
+em {
+    color: #000099;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+/* em {
+    color: hsl(240, 100%, 30%);
+} */
+
+img{
+    vertical-align: text-top;
+    width: 10px;
+    height: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
